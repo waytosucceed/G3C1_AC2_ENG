@@ -1,0 +1,241 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Is the word in bold a noun? <br> <span style='color:blue;'><b>Mary</b> was a spirited and inquisitive child.<span>",
+    "options": ["Yes", "No"],
+    "correct": 0,
+    "explanation": "In the sentence 'Mary was a spirited and inquisitive child,' the word 'Mary' is used as a proper noun. Proper nouns are specific names given to particular people, places, or things. In this case, 'Mary' is the name of a person, so it functions as a noun. Additionally, proper nouns are always capitalized, which is consistent with the capitalization of 'Mary' in the sentence. Therefore, 'Mary' is indeed a noun."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which of the words in bold is a noun? <br><span style='color:blue;'> She lived in a cosy <b>cottage</b> with her parents.</span>",
+    "options": ["Lived", "Cosy", "Cottage", "Her"],
+    "correct": 2,
+    "explanation": "A noun is a word that represents a person, place, thing, or idea. In the given sentence, 'cottage' is the only word that fits this definition. 'Lived' is a verb, indicating an action. 'Cosy' is an adjective, describing the type of cottage. 'Her' is a possessive pronoun, indicating possession. However, 'cottage' names a place, specifically the type of dwelling where she lived, making it a noun. Therefore, option 2) 'Cottage' is the correct answer."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Select the two nouns in the given sentence. <br><span style='color:blue;'>Mary was exploring the woods.</span>",
+    "options": [
+      "Mary, exploring",
+      "Exploring, woods",
+      "Woods, Mary",
+      "Was, woods"
+    ],
+    "correct": 2,
+    "explanation": "Woods is a noun because it is the name of a place. Mary is also a noun because it is the name of a person. In the given sentence, 'Mary' and 'woods' are the two nouns. 'Mary' represents the person who is doing the action, and 'woods' represents the place where Mary is exploring."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "Select all the nouns in the given sentence.<br><span style='color:blue;'> She followed the winding trail deeper into the forest, her heart pounding with excitement.</span>",
+    "options": [
+      "Winding, trail, forest, heart",
+      "Trail, forest, heart, excitement",
+      "Winding, deeper, pounding, excitement",
+      "Followed, winding, deeper, pounding"
+    ],
+    "correct": 1,
+    "explanation": "Nouns are words that represent people, places, things, or ideas. In the given sentence, the nouns are 'trail,' 'forest,' 'heart,' and 'excitement.' 'Trail' and 'forest' represent physical locations. 'Heart' refers to a part of the body. 'Excitement' represents an emotion or feeling. Options a), c), and d) contain words that are not nouns: Option a) includes 'winding,' which is an adjective describing the type of trail, not a noun. Option c) includes 'winding' (adjective), 'deeper' (adjective), and 'pounding' (verb/participle) which are not nouns. Option d) includes 'followed' (verb), 'winding' (adjective), and 'deeper' (adjective), which are not nouns."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Select the proper noun in the given sentence.<br><span style='color:blue;'> Hangleton was a small village on the edge of the forest.</span>",
+    "options": ["Hangleton", "Village", "Edge", "Forest"],
+    "correct": 0,
+    "explanation": "Proper nouns are specific names given to particular people, places, or things. In the given sentence, 'Hangleton' is capitalized, indicating that it is a specific name referring to a particular village. Therefore, 'Hangleton' is the proper noun in the sentence. 'Village' is a common noun, as it refers to a general type or category of settlement. 'Edge' is a common noun, as it refers to a general concept or location. 'Forest' is a common noun, as it refers to a general type of geographical area."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Select the common nouns in the given sentence.<br><span style='color:blue;'> She gathered armfuls of flowers into her basket.</span>",
+    "options": [
+      "She, armful, flowers",
+      "Armful, flowers, her",
+      "Flowers, basket, armful",
+      "She, basket, gathered"
+    ],
+    "correct": 2,
+    "explanation": "Common nouns are general names for people, places, things, or ideas. In the given sentence, the common nouns are 'flowers,' 'basket,' and 'armful.' 'Flowers' and 'basket' are names for things. 'Armful' is a common noun representing a quantity or amount of something (in this case, flowers)."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Select the common nouns in the given sentence. <br><span style='color:blue;'> The trees whispered secrets in the gentle breeze.</span>",
+    "options": [
+      "Whispered, secrets, gentle",
+      "Trees, secrets, breeze",
+      "Whispered, trees, gentle",
+      "Whispered, trees, breeze"
+    ],
+    "correct": 1,
+    "explanation": "Common nouns are words that refer to general categories of people, places, things, or concepts. In the given sentence: 'Trees' is a common noun because it refers to a general category of objects (in this case, the specific trees). 'Secrets' is a common noun because it refers to general concepts or ideas. 'Breeze' is a common noun because it refers to a general concept of a gentle wind."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "Select all the nouns in the given sentence. <br> <span style='color:blue;'>Mary knew that she had to share the magic of the garden.</span>",
+    "options": [
+      "Share, magic, garden",
+      "She, share, magic",
+      "Mary, she, garden",
+      "Mary, magic, garden"
+    ],
+    "correct": 3,
+    "explanation": "Nouns are words that represent people, places, things, or ideas. In the given sentence, the nouns are 'Mary,' 'magic,' and 'garden.' 'Mary' is a proper noun, representing a specific person. 'Magic' is a common noun, representing a concept or idea. 'Garden' is a common noun, representing a physical place."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "Select the collective noun in the given sentence.<br> <span style='color:blue;'>The cottage was surrounded by lush green fields, groves and towering trees.</span>",
+    "options": ["Cottage", "Surrounded", "Fields", "Groves"],
+    "correct": 3,
+    "explanation": "A collective noun is a word that represents a group of people, animals, or things. In the given sentence, the collective noun is 'groves,' which refers to a group of trees. Option a) 'Cottage' is a singular noun referring to a single building. Option b) 'Surrounded' is a verb indicating an action. Option c) 'Fields' is a plural noun referring to multiple areas of land. Option d) 'Groves' is a collective noun representing a group of trees."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Select the concrete noun in the given sentence.<br><span style='color:blue;'> Mary discovered that the garden was filled with wondrous surprises.</span>",
+    "options": [
+      "Mary, garden",
+      "Garden, wondrous",
+      "Wondrous, surprises",
+      "Mary, surprises"
+    ],
+    "correct": 0,
+    "explanation": "A concrete noun is a word that represents a physical object or substance that can be perceived by the senses. In the given sentence, 'Mary' and 'garden' are concrete nouns because they represent tangible entities that can be seen, touched, or experienced. 'Mary' refers to a specific person, and a person is a concrete entity. 'Garden' refers to a physical outdoor space with plants and possibly structures, making it a concrete noun. Regarding the relationship between proper nouns and concrete nouns: All proper nouns and common nouns are concrete nouns because they refer to specific, tangible entities. For example, 'Mary' is a proper noun representing a specific person, and 'garden' is a common noun representing a specific physical space. However, not all concrete nouns are proper nouns or common nouns. Concrete nouns encompass a broader category of tangible objects, including common nouns like 'table,' 'book,' 'tree,' etc. These nouns represent general categories of physical objects rather than specific individuals or places. Proper nouns, on the other hand, specifically identify unique individuals, places, or things and always begin with a capital letter."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "In the school play, ________  played the role of the brave princess?",
+    "options": ["Tina", "Garden", "Flowers", "Magic"],
+    "correct": 0,
+    "explanation": "In the sentence, the blank is asking for the name of the person who played the role of the brave princess. Among the options, 'Tina' is a person's name and thus the correct answer. 'Garden,' 'Flowers,' and 'Magic' are not names of people, so they are not correct answers."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Grandma spent her weekends taking care of her beautiful flower ________.",
+    "options": ["Mary", "Garden", "Flowers", "Magic"],
+    "correct": 1,
+    "explanation": "The sentence tells us that Grandma was taking care of something related to flowers. The word 'garden' fits best because it is a place where flowers grow. 'Mary,' 'Flowers,' and 'Magic' do not fit in the context of the sentence as well as 'garden.' Therefore, 'Garden' is the correct answer."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Find the odd one out:<br> <span style='color:blue;'>Mary, Hangleton, wondrous </span>",
+    "options": ["Mary", "Hangleton", "Wondrous", "None of the above"],
+    "correct": 2,
+    "explanation": "In this question, you need to find the word that is different from the others. 'Mary' and 'Hangleton' are proper nouns, referring to a person's name and a place, respectively. 'Wondrous' is an adjective that describes something as marvelous or extraordinary. Therefore, 'Wondrous' is the odd one out."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Find the odd one out:<br> <span style='color:blue;'>villagers, groves, happiness, amazed </span>",
+    "options": ["Villagers", "Groves", "Happiness", "Amazed"],
+    "correct": 3,
+    "explanation": "In this question, you need to identify the word that doesn’t belong. 'Villagers,' 'groves,' and 'happiness' are all nouns. 'Amazed' is an adjective, which means greatly surprised or astonished. Therefore, 'Amazed' is the word that does not fit."
+  },
+
+  {
+    "questionNo": "Q15.",
+    "question": "Select the noun type of the underlined word:<span style='color:blue;'> We have an ant farm in our <u>classroom</u>.</span>",
+    "options": ["Proper noun", "Common noun", "None of the above"],
+    "correct": 1,
+    "explanation": "In the sentence, '<u>classroom</u>' is a common noun. Common nouns refer to general names for people, places, things, or ideas. It denotes a general category of a place where teaching occurs, not a specific, unique classroom."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Select the noun type of the underlined word:<span style='color:blue;'> My sister and I got some <u>soil</u>.</span>",
+    "options": ["Proper noun", "Common noun", "None of the above"],
+    "correct": 1,
+    "explanation": "In the sentence, '<u>soil</u>' is a common noun. Common nouns are general names for things, and 'soil' refers to a substance on the earth's surface. It is not a specific type of soil, so it is classified as a common noun."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Select the noun type of the underlined word:<span style='color:blue;'> Large plants grow in her <u>backyard</u>. </span>",
+    "options": [
+      "Proper noun",
+      "Common noun",
+      "Collective noun",
+      "Abstract noun"
+    ],
+    "correct": 1,
+    "explanation": "In the sentence 'Large plants grow in her <u>backyard</u>,' the word '<u>backyard</u>' is a common noun. A common noun is a general term for a person, place, thing, or idea. 'Backyard' refers to a general type of outdoor area behind a house and is not a specific name."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Select the noun type of the underlined word: <span style='color:blue;'>Sarah travelled to <u>London</u> for her vacation.</span>",
+    "options": [
+      "Proper noun",
+      "Common noun",
+      "Collective noun",
+      "Abstract noun"
+    ],
+    "correct": 0,
+    "explanation": "In the sentence 'Sarah travelled to <u>London</u> for her vacation,' the word '<u>London</u>' is a proper noun. Proper nouns are specific names for particular people, places, or things. 'London' is a specific city, thus it is a proper noun."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "Select the noun type of the underlined word: <span style='color:blue;'>The <u>team</u> celebrated their victory with a parade.</span>",
+    "options": [
+      "Proper noun",
+      "Concrete noun",
+      "Collective noun",
+      "Abstract noun"
+    ],
+    "correct": 2,
+    "explanation": "In the sentence 'The <u>team</u> celebrated their victory with a parade,' the word '<u>team</u>' is a collective noun. Collective nouns represent a group of individuals or things treated as a single entity."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Select the noun type of the underlined word: <span style='color:blue;'>Her <u>kindness</u> made everyone smile.<span>",
+    "options": [
+      "Proper noun",
+      "Common noun",
+      "Collective noun",
+      "Abstract noun"
+    ],
+    "correct": 3,
+    "explanation": "In the sentence 'Her <u>kindness</u> made everyone smile,' the word '<u>kindness</u>' is an abstract noun. Abstract nouns represent qualities, states, or concepts that cannot be perceived by the senses."
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "Select the noun type of the underlined word:<span style='color:blue;'> She picked a ripe <u>apple</u> from the tree.</span>",
+    "options": [
+      "Proper noun",
+      "Collective noun",
+      "Concrete noun",
+      "Abstract noun"
+    ],
+    "correct": 2,
+    "explanation": "In the sentence 'She picked a ripe <u>apple</u> from the tree,' the word '<u>apple</u>' is a concrete noun. Concrete nouns refer to tangible, physical objects that can be perceived by the senses."
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "Select the correct form of the given sentence:<span style='color:blue;'> It was very hot on <u>friday</u> afternoon.</span>",
+    "options": [
+      "It was very hot on Friday afternoon.",
+      "It was very Hot on friday afternoon.",
+      "It was very hot on friday Afternoon.",
+      "The sentence is correct."
+    ],
+    "correct": 0,
+    "explanation": "Option a) correctly capitalizes 'Friday,' the name of a specific day of the week, and 'afternoon,' indicating a time of day. In English, days of the week and the names of months are considered proper nouns and should be capitalized. Additionally, 'hot' is correctly written in lowercase, as it is not a proper noun but an adjective describing the weather condition."
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "Select the correct form of the given sentence:<span style='color:blue;'> He visited the <u>grand canyon</u> during his summer vacation.</span>",
+    "options": [
+      "He visited the Grand Canyon during his summer vacation.",
+      "He visited the Grand canyon during his Summer vacation.",
+      "He visited the grand Canyon during his summer vacation.",
+      "The sentence is correct."
+    ],
+    "correct": 0,
+    "explanation": "Option a) correctly capitalizes 'Grand Canyon,' which is the name of a specific geographical feature, and 'summer,' indicating a season. Proper nouns like 'Grand Canyon' should always be capitalized."
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "Select the correct form of the given sentence:<span style='color:blue;'> The <u>Eiffel tower</u> is located in <u>paris</u>, <u>france</u>.</span>",
+    "options": [
+      "The Eiffel Tower is located in Paris, France.",
+      "The eiffel tower is located in Paris, france.",
+      "The Eiffel Tower is located in paris, France.",
+      "The sentence is correct."
+    ],
+    "correct": 0,
+    "explanation": "Option a) correctly capitalizes 'Eiffel Tower,' which is the name of a famous landmark, and 'Paris' and 'France,' which are proper nouns representing a city and a country, respectively. Proper nouns should always be capitalized."
+  }
+]
